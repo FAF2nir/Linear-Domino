@@ -1,3 +1,2 @@
 # Linear-Domino
-
-This is as project for a university exam
+Project for an university exam
